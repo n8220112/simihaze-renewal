@@ -13,7 +13,7 @@ const Login = () => {
               <input type="password" name="pwInput" id="pwInput" placeholder="Password" />
             </div>
             <div className="buttons">
-              <button type="submit">로그인</button>
+              <button>로그인</button>
               <button>회원가입</button>
             </div>
           </form>

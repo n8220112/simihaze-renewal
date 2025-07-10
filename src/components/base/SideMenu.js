@@ -41,9 +41,9 @@ const SideMenu = ({cartItems}) => {
         <button id="menuCloseButton">
           <FiX />
         </button>
-        <NavLink to="/login">로그인</NavLink>
+        <NavLink to="/login" className="go-to-subpage">로그인</NavLink>
         <NavLink>회원가입</NavLink>
-        <NavLink to="/cart">장바구니 ({cartItems.length})</NavLink>
+        <NavLink to="/cart" className="go-to-subpage">장바구니 ({cartItems.length})</NavLink>
       </div>
       <div className="side-body">
         <ul className="product-menu">
@@ -69,7 +69,7 @@ const SideMenu = ({cartItems}) => {
         <div className="community">
           <h5>community</h5>
           <NavLink>Collection</NavLink>
-          <NavLink to="/about">About</NavLink>
+          <NavLink to="/about" className="go-to-subpage">About</NavLink>
           <NavLink>Notice</NavLink>
           <NavLink>FAQ</NavLink>
           <NavLink>Q&A</NavLink>

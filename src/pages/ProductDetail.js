@@ -42,8 +42,8 @@ const ProductDetail = ({products, cartItems, setCartItems}) => {
   };
   //개수 감소
   const handleDecrease = () => {
-    if (count > 1) {
-      //1 미만으로 안 되게
+    if (count > 0) {
+      //0 미만으로 안 되게
       setCount(count - 1);
     }
   };

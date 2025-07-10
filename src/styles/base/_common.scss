@@ -57,8 +57,15 @@ input[type="password"] {
   border: none;
   font-size: $font-m;
   outline: none;
+  border-radius: 0;
   &::placeholder {
     font-weight: $normal;
     color: $light-gray;
   }
+}
+
+/* subpage 클릭유도 */
+.go-to-subpage {
+  color: $main-color !important;
+  font-weight: $bold !important;
 }

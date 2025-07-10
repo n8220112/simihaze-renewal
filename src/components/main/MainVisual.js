@@ -22,7 +22,7 @@ const MainVisual = () => {
             <p>립 컬러 3개 구매 시 1개 무료</p>
             <span>shop now</span>
           </div>
-          <video src="assets/videos/main-visual-1.mp4" autoPlay muted loop></video>
+          <video src="assets/videos/main-visual-1.mp4" autoPlay muted loop playsInline></video>
         </SwiperSlide>
         <SwiperSlide>
           <div className="text-box">
