@@ -25,7 +25,7 @@ const ProductCard = ({product}) => {
         </div>
       </div>
 
-      <Link to={`/productdetail/${product.id}`} className="info">
+      <Link to={`/detail/${product.id}`} className="info">
         <h6>{product.name}</h6>
         <p className="price">
           {product.discountPrice && product.discountPrice < product.price ? (
