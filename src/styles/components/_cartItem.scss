@@ -1,0 +1,108 @@
+.cart-item {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+  padding: 20px 0;
+  height: 160px;
+  border-bottom: 1px solid $cloudy-gray;
+  > div {
+    height: 100%;
+  }
+  .cart-check {
+    cursor: pointer;
+    display: inline-block;
+    background-clip: content-box;
+    vertical-align: text-top;
+    width: 15px;
+    height: 15px;
+    border: 1px solid $black;
+    outline: none;
+    &:checked {
+      background-color: $black;
+      accent-color: $black;
+    }
+  }
+  .cart-thumb {
+    a {
+      display: block;
+      width: 120px;
+      height: 120px;
+      position: relative;
+      background-color: #f6f6f6;
+      overflow: hidden;
+      img {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        object-fit: cover;
+      }
+    }
+  }
+  .cart-info {
+    position: relative;
+    flex: 1;
+    line-height: 200%;
+    min-width: 0;
+    padding-right: 20px;
+    border-right: 1px solid #eee;
+    h6 {
+      font-weight: $bold;
+      font-size: $font-xl;
+    }
+    p {
+      font-size: $font-m;
+      color: $dark-gray;
+    }
+    i {
+      color: $dim-gray;
+      display: block;
+    }
+    button {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      position: absolute;
+      border: 1px solid #eee;
+      color: $cloudy-gray;
+      top: 0;
+      right: 20px;
+      width: 27px;
+      height: 27px;
+      margin: 0 auto;
+      font-size: $font-heading-s;
+    }
+  }
+  .quantity-control {
+    width: 140px;
+    padding: 20px 0;
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    align-items: center;
+    border-right: 1px solid #eee;
+  }
+  .cart-final-price {
+    width: 220px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    p {
+      font-weight: $bold;
+      font-size: $font-xl;
+    }
+    button {
+      padding: 0 20px;
+      height: 30px;
+      background-color: $black;
+      color: $white;
+      font-size: $font-s;
+    }
+  }
+}

@@ -1,0 +1,64 @@
+/* layouts */
+.inner {
+  max-width: 1400px;
+  width: 100%;
+  margin: 0 auto;
+}
+main {
+  &:not(.main-page) {
+    margin-top: 92px;
+  }
+  > section {
+    padding: 120px 50px;
+  }
+}
+
+/* text style */
+.title,
+.info {
+  text-align: center;
+}
+.headline {
+  margin-bottom: 60px;
+}
+h2 {
+  font-size: $font-page-title;
+  font-weight: $bold;
+}
+h2 + p {
+  font-size: $font-l;
+}
+h3 {
+  font-size: $font-section-title;
+  font-weight: $bold;
+}
+h3 + p {
+  font-size: $font-heading-s;
+  color: $gray;
+}
+h4 {
+  font-size: $font-heading-m;
+  font-weight: $bold;
+}
+h5 {
+  font-size: $font-xl;
+}
+h6 {
+  font-size: $font-s;
+}
+
+/* input styles */
+input[type="search"],
+input[type="text"],
+input[type="password"] {
+  height: 40px;
+  line-height: 40px;
+  padding: 0 16px;
+  border: none;
+  font-size: $font-m;
+  outline: none;
+  &::placeholder {
+    font-weight: $normal;
+    color: $light-gray;
+  }
+}

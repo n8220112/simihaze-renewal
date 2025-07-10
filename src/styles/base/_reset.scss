@@ -1,0 +1,40 @@
+html {
+  scroll-behavior: smooth;
+  font-size: $font-s; //12px
+}
+body {
+  font-size: $font-s; //12px
+  font-weight: $normal;
+  font-family: $primary-en, $primary-kr, sans-serif;
+  min-width: 360px;
+  min-height: 100%;
+  color: $black;
+  background: $white;
+  word-break: keep-all;
+  word-wrap: break-word;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: inherit;
+  font-family: inherit;
+  font-weight: inherit;
+  font-size: inherit;
+  font-style: normal;
+  text-transform: inherit;
+  outline: none;
+}
+ol,
+ul,
+li {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+}
+button {
+  cursor: pointer;
+  border: none;
+  background-color: transparent;
+}

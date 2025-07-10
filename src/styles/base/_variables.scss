@@ -1,0 +1,39 @@
+/* fonts */
+@import url("https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Noto+Sans+KR:wght@100..900&display=swap");
+@import url('//fastly.jsdelivr.net/font-iropke-batang/1.2/font-iropke-batang.css');
+$primary-en: "DM Sans";
+$primary-kr: "Noto Sans KR";
+$secondary-en: "Courier Prime";
+$secondary-kr: "iropke batang";
+
+/* font size */
+$font-xs: 11px;
+$font-s: 12px;
+$font-m: 13px;
+$font-l: 14px;
+$font-xl: 16px;
+$font-heading-s: 18px;
+$font-heading-m: 26px;
+$font-heading-l: 30px;
+$font-section-title: 40px;
+$font-page-title: 72px;
+
+/* font weight */
+$light: 300;
+$normal: 400;
+$bold: 500;
+$extra-bold: 700;
+
+/* colors */
+$black: #000;
+$white: #fff;
+$cloudy-gray: #ddd;
+$light-gray: #aaaaaa;
+$gray: #868686;
+$dim-gray: #6d6d6d;
+$dark-gray: #333;
+$main-color: #264ebb;
+$sub-color: #d5e0ea;
+
+/* paddings */
+$pd-s: 16px;

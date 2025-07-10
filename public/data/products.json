@@ -1,0 +1,656 @@
+[
+  {
+    "id": 0,
+    "name": "EASY LASH Clean Lift Mascara",
+    "korName": "이지 래쉬 클린 리프트 마스카라",
+    "category": "eyes",
+    "price": 42000,
+    "discountPrice": 37800,
+    "isSoldOut": false,
+    "isNew": false,
+    "isBest": false,
+    "colors": [],
+    "rating": 100,
+    "reviewCount": 1,
+    "imageUrl": "/assets/images/products/eyes/EASY-LASH-Clean-Lift-Mascara-thumb.png",
+    "hoverImage": "/assets/images/products/eyes/EASY-LASH-Clean-Lift-Mascara-hover.png",
+    "imageList": [
+      "/assets/images/products/eyes/EASY-LASH-Clean-Lift-Mascara-1.jpg",
+      "/assets/images/products/eyes/EASY-LASH-Clean-Lift-Mascara-2.jpg",
+      "/assets/images/products/eyes/EASY-LASH-Clean-Lift-Mascara-3.jpg",
+      "/assets/images/products/eyes/EASY-LASH-Clean-Lift-Mascara-4.jpg",
+      "/assets/images/products/eyes/EASY-LASH-Clean-Lift-Mascara-5.jpg"
+    ],
+    "stock": 20,
+    "releaseDate": "2020-01-01",
+    "description": {
+      "desc": "EASY LASH — 뭉침 없이 또렷하게, 번짐 없이 깔끔하게. 속눈썹을 선명하게 정리하고 길어 보이게 해주는 튜브형 마스카라입니다. 부드러운 촉감의 지속 가능 패키지에 담겨 있으며, 맞춤 제작된 삼각 곡선형 브러시가 속눈썹 라인에 완벽하게 밀착되어 섬세하게 빗어줍니다. 플렉서블한 젤-크림 포뮬러는 장미 오일과 로즈워터로 속눈썹을 부드럽게 케어하면서도, 가볍고 균일하게 발려 하루 종일 무게감 없이 깔끔한 컬링을 유지해 줍니다.",
+      "quote": "우리는 마스카라를 바를 때마다 뭉치거나 번지는 게 너무 싫었어요. 그래서 그냥 ‘한 번에 예쁘게 끝나는’ 마스카라를 만들었죠. EASY LASH는 그 이름처럼 쉽고, 매일 바르고 싶을 만큼 가벼워요."
+    },
+    "howToUse": ["속눈썹 뿌리부터 팁까지, 브러시로 위로 빗어올리듯 발라주세요.", "한 올 한 올 정돈하며 길이와 볼륨을 자연스럽게 연출할 수 있습니다."],
+    "ingredients": {
+      "default": "정제수, 스테아린산, 아크릴레이트코폴리머, 글리세릴스테아레이트, 카나우바왁스, 쌀겨왁스, 프로판디올, 트라이베헤닌, 아크릴레이트/에틸헥실아크릴레이트코폴리머, 칸데릴라왁스, 아미노메틸프로판올, 페녹시에탄올, 피마자씨오일, 데하이드로아세트산나트륨, 하이드록시에틸셀룰로오스, 에틸헥실글리세린, 로사다마스케나꽃수, 로레쓰-21, 해바라기씨오일, 로사다마스케나꽃추출물, 디소듐포스페이트, 폴리소르베이트60, 토코페롤, 소듐포스페이트, 구연산, 소르빈산칼륨, 소듐벤조에이트, CI 77499 (산화철)"
+    }
+  },
+  {
+    "id": 1,
+    "name": "VELVET BLUR Matte Lipstick Balm",
+    "korName": "벨벳 블러 매트 립스틱 밤",
+    "category": "lips",
+    "price": 50000,
+    "discountPrice": 45000,
+    "isSoldOut": false,
+    "isNew": false,
+    "isBest": true,
+    "colors": [
+      {"swatch": "#a8374d", "name": "01 Fever"},
+      {"swatch": "#c23659", "name": "02 Roseberry"},
+      {"swatch": "#5e2e35", "name": "03 Storm"},
+      {"swatch": "#ea7e91", "name": "04 Sunrise"},
+      {"swatch": "#892039", "name": "05 Jam"},
+      {"swatch": "#791622", "name": "06 Moonblade"},
+      {"swatch": "#e86c84", "name": "07 Mist"},
+      {"swatch": "#F35C5A", "name": "08 Dahlia"},
+      {"swatch": "#d30642", "name": "09 Lava"},
+      {"swatch": "#d4646c", "name": "10 Sahara"},
+      {"swatch": "#793826", "name": "11 Windburn"},
+      {"swatch": "#8a413b", "name": "12 Dusk"},
+      {"swatch": "#793826", "name": "13 Redwood"},
+      {"swatch": "#612619", "name": "14 Raven"},
+      {"swatch": "#7a3330", "name": "15 Chai"},
+      {"swatch": "#a1564b", "name": "16 Suede"}
+    ],
+    "rating": 80,
+    "reviewCount": 6,
+    "imageUrl": "/assets/images/products/lips/VELVET-BLUR-Matte-Lipstick-Balm-thumb.png",
+    "hoverImage": "/assets/images/products/lips/VELVET-BLUR-Matte-Lipstick-Balm-hover.png",
+    "imageList": [
+      "/assets/images/products/lips/VELVET-BLUR-Matte-Lipstick-Balm-1.jpg",
+      "/assets/images/products/lips/VELVET-BLUR-Matte-Lipstick-Balm-2.png",
+      "/assets/images/products/lips/VELVET-BLUR-Matte-Lipstick-Balm-3.jpg",
+      "/assets/images/products/lips/VELVET-BLUR-Matte-Lipstick-Balm-4.jpg",
+      "/assets/images/products/lips/VELVET-BLUR-Matte-Lipstick-Balm-5.jpg",
+      "/assets/images/products/lips/VELVET-BLUR-Matte-Lipstick-Balm-6.jpg",
+      "/assets/images/products/lips/VELVET-BLUR-Matte-Lipstick-Balm-7.jpg",
+      "/assets/images/products/lips/VELVET-BLUR-Matte-Lipstick-Balm-8.jpg",
+      "/assets/images/products/lips/VELVET-BLUR-Matte-Lipstick-Balm-9.jpg"
+    ],
+    "stock": 20,
+    "releaseDate": "2020-01-01",
+    "description": {
+      "desc": "VELVET BLUR을 만나보세요 — 즉각적인 컬러의 물결. 이 영양 가득한 포뮬러는 높은 발색력을 자랑하면서도 들뜸 없이 가볍고 공기처럼 부드러운 사용감을 선사합니다. 최대 12시간까지 지속되는* 이 립스틱은 돔 형태의 팁이 입술 위를 부드럽게 미끄러지듯 발리며, 히알루론산 스피어가 포함된 스마트 블러 파우더가 수분을 공급하고, Velvet-Flex™ 기술이 유연한 보호막을 형성해 수분을 가두어 편안함을 오래 유지합니다. * 20명의 자발적 참여자를 대상으로 한 내부 테스트(자가 평가 기준)에 근거함.",
+      "quote": "이건 우리가 꿈꾸던 립스틱이에요. 촉촉한 립밤처럼 수분감 있고, 데일리로도 부담 없이 바를 수 있는 매트 립을 만들고 싶었죠. 우리는 이 립스틱 없이는 집을 나서지 않아요."
+    },
+    "howToUse": ["풀 커버리지 룩을 원할 경우, 돔 형태의 팁을 이용해 입술 전체에 직접 발라주세요.", "PRO TIP: 손가락 끝으로 제품을 톡톡 두드리듯 발라주면, 자연스럽고 번진 듯한 '블러 립' 연출이 가능합니다."],
+    "ingredients": {
+      "default": "디메치콘, 카프릴릭/카프릭트리글리세라이드, 폴리에틸렌, 옥틸도데카놀, 수산화알루미늄, 폴리실리콘-11, 폴리하이드록시스테아르산, 합성왁스, 디스테아디모늄헥토라이트, 합성비즈왁스, 인산이칼슘, 수화규소, 카나우바왁스, 트리에톡시카프릴릴실란, 테트라-디-터-부틸 하이드록시하이드로신나메이트, 피마자씨오일, 소듐하이알루로네이트, 경화피마자오일",
+      "additional": "레드 7 (CI 15850), 블루 1 레이크 (CI 42090), 레드 28 레이크 (CI 45410), 산화철 (CI 77491/77492/77499), 이산화티타늄 (CI 77891), 레드 7 레이크 (CI 15850), 옐로우 5 레이크 (CI 19140), 레드 6 (CI 15850)"
+    }
+  },
+  {
+    "id": 2,
+    "name": "LIP TRACE Shape Liner",
+    "korName": "립 트레이스 쉐이프 라이너",
+    "category": "lips",
+    "price": 34000,
+    "discountPrice": 34000,
+    "isSoldOut": false,
+    "isNew": false,
+    "isBest": false,
+    "colors": [
+      {"swatch": "#a54b4c", "name": "01 Karma"},
+      {"swatch": "#9c2634", "name": "02 Magma"},
+      {"swatch": "#682c37", "name": "03 Monsoon"},
+      {"swatch": "#8a2838", "name": "04 Hinoki"},
+      {"swatch": "#732730", "name": "05 Omen"},
+      {"swatch": "#8c5249", "name": "06 Saddle"},
+      {"swatch": "#8a3a3d", "name": "07 Luna"}
+    ],
+    "rating": 100,
+    "reviewCount": 4,
+    "imageUrl": "/assets/images/products/lips/LIP-TRACE-Shape-Liner-thumb.png",
+    "hoverImage": "/assets/images/products/lips/LIP-TRACE-Shape-Liner-hover.png",
+    "imageList": ["/assets/images/products/lips/LIP-TRACE-Shape-Liner-1.jpg", "/assets/images/products/lips/LIP-TRACE-Shape-Liner-2.png", "/assets/images/products/lips/LIP-TRACE-Shape-Liner-3.jpg"],
+    "stock": 20,
+    "releaseDate": "2020-01-02",
+    "description": {
+      "desc": "LIP TRACE—지금껏 경험하지 못한 가장 부드러운 립 라이너를 소개합니다. 입술 라인을 당기거나 번짐 없이, 부드럽게 미끄러지듯 그려주며 오랜 시간 지속되는 전사 방지 컬러를 완성해줍니다. 입술 본연의 라인을 또렷하게 강조해, 자연스럽게 볼륨감 있는 입술로 연출해보세요.",
+      "quote": "우리는 아주 부드럽고 다양하게 활용할 수 있는 립 라이너를 원했어요. 립 라인을 정리할 때는 물론, 입술 전체에 물들이듯 블렌딩해서도 사용하죠."
+    },
+    "howToUse": [
+      "립 제품을 바르기 전 또는 후에 입술 라인을 따라 정교하게 그려주세요. 소프트 블러 효과를 원한다면 입술 전체에 가볍게 채운 뒤, 손가락 끝으로 가장자리를 톡톡 두드려 자연스럽게 번진 느낌을 연출하세요.",
+      "PRO TIP: 아래 추천 조합으로 VELVET BLUR과 함께 사용하면 더욱 시너지를 느낄 수 있어요.",
+      "LIP TRACE Luna + VELVET BLUR Windburn 또는 Sahara. LIP TRACE Karma + VELVET BLUR Sunrise, Mist, Dahlia. LIP TRACE Saddle + VELVET BLUR Dusk. LIP TRACE Magma + VELVET BLUR Lava. LIP TRACE Monsoon + VELVET BLUR Storm. LIP TRACE Hinoki + VELVET BLUR Roseberry 또는 Fever. LIP TRACE Omen + VELVET BLUR Jam, Moonblade"
+    ],
+    "ingredients": {
+      "default": "아이소도데케인, 폴리부텐, 합성왁스, 합성플루오르플로고파이트, 트라이메틸실록시실리케이트, 수소화호호바오일, 아이소아밀라우레이트, 수크로오스테트라스테아레이트트리아세테이트, 실리카, 세테아릴베헤네이트, 테트라-디-터-부틸 하이드록시하이드로신나메이트",
+      "additional": null
+    }
+  },
+  {
+    "id": 3,
+    "name": "SUN FLUSH All-Over Face Tint",
+    "korName": "선 플러시 올-오버 페이스 틴트",
+    "category": "face",
+    "price": 49000,
+    "discountPrice": 49000,
+    "isSoldOut": false,
+    "isNew": false,
+    "isBest": true,
+    "colors": [
+      {"swatch": "#a54b4c", "name": "01 Sand"},
+      {"swatch": "#ec9474", "name": "02 Soft"},
+      {"swatch": "#fcaca4", "name": "03 Baby"},
+      {"swatch": "#c44c34", "name": "04 Blaze"},
+      {"swatch": "#fc9c8c", "name": "05 Peach"}
+    ],
+    "rating": 100,
+    "reviewCount": 2,
+    "imageUrl": "/assets/images/products/face/SUN-FLUSH-All-Over-Face-Tint-thumb.png",
+    "hoverImage": "/assets/images/products/face/SUN-FLUSH-All-Over-Face-Tint-hover.png",
+    "imageList": ["/assets/images/products/face/SUN-FLUSH-All-Over-Face-Tint-1.jpg", "/assets/images/products/face/SUN-FLUSH-All-Over-Face-Tint-2.jpg", "/assets/images/products/face/SUN-FLUSH-All-Over-Face-Tint-3.jpg", "/assets/images/products/face/SUN-FLUSH-All-Over-Face-Tint-4.jpg", "/assets/images/products/face/SUN-FLUSH-All-Over-Face-Tint-5.jpg", "/assets/images/products/face/SUN-FLUSH-All-Over-Face-Tint-6.jpg"],
+    "stock": 20,
+    "releaseDate": "2020-01-03",
+    "description": {
+      "desc": "SUN FLUSH—피부를 진정시키는 성분이 가득한 멀티 유즈 틴트를 소개합니다. 촉촉한 날의 자연스러운 홍조처럼, 눈가와 볼에 생기를 불어넣는 생기 가득한 젤-크림 제형으로, 도포 즉시 맑고 투명한 생기 표현이 가능합니다. 수분을 머금은 젤 크림 텍스처가 광택 없이 은은하게 촉촉한 마무리를 선사하며, 알란토인, 히알루론산, 보습 당 성분이 하루 종일 수분을 채워줍니다.",
+      "quote": "우리는 이 제품을 '병 속의 건강한 생기'라고 부릅니다. 볼에 톡 바르면 즉각적으로 혈색이 살아나고, 눈가에 바르면 눈이 더 밝아 보이죠."
+    },
+    "howToUse": ["도포형 어플리케이터로 눈가, 볼 또는 생기를 더하고 싶은 부위에 톡톡 찍어 발라주세요."],
+    "ingredients": {
+      "default": "정제수, 트리실록산, 디메치콘, 부틸렌글라이콜, 피이지-10디메치콘, 마이카, 디카프릴릴카보네이트, 아이소노닐아이소노나노에이트, 디스테아디모늄헥토라이트, 글리세린, 펜틸렌글라이콜, 비닐디메치콘/메치콘실세스퀴옥산크로스폴리머, 벤질알코올, 황산마그네슘, 트리에톡시카프릴릴실란, 데하이드로아세틱애씨드, 구연산, 프럭토오스, 수산화나트륨, 요소, 수산화알루미늄, 알란토인, 말토오스, 염화나트륨, 락트산나트륨, 피씨에이나트륨, 트레할로오스, 글루코오스, 소듐하이알루로네이트, 토코페롤",
+      "additional": "CI 77891 (이산화티타늄), CI 77491 / 77492 / 77499 (산화철)"
+    }
+  },
+  {
+    "id": 4,
+    "name": "EYE PLAY Pool Pack",
+    "korName": "아이 플레이 풀 팩",
+    "category": "eyes",
+    "price": 35000,
+    "discountPrice": 35000,
+    "isSoldOut": false,
+    "isNew": false,
+    "isBest": false,
+    "colors": [],
+    "rating": 5,
+    "reviewCount": 5,
+    "imageUrl": "/assets/images/products/eyes/EYE-PLAY-Pool-Pack-thumb.png",
+    "hoverImage": "/assets/images/products/eyes/EYE-PLAY-Pool-Pack-hover.png",
+    "imageList": ["/assets/images/products/eyes/EYE-PLAY-Pool-Pack-1.png", "/assets/images/products/eyes/EYE-PLAY-Pool-Pack-2.jpg", "/assets/images/products/eyes/EYE-PLAY-Pool-Pack-3.jpg", "/assets/images/products/eyes/EYE-PLAY-Pool-Pack-4.jpg", "/assets/images/products/eyes/EYE-PLAY-Pool-Pack-5.jpg", "/assets/images/products/eyes/EYE-PLAY-Pool-Pack-6.jpg", "/assets/images/products/eyes/EYE-PLAY-Pool-Pack-7.jpg", "/assets/images/products/eyes/EYE-PLAY-Pool-Pack-8.jpg"],
+    "stock": 20,
+    "releaseDate": "2020-01-04",
+    "description": {
+      "desc": "하루 종일, 밤새도록 즐기는 즉각적인 네온 아이라이너 룩.",
+      "quote": "이 아이 스티커는 여름의 에너지에서 영감을 받았어요. 우리는 이 세 가지 네온 컬러와, 자유롭게 커스터마이징할 수 있는 재밌는 디자인을 선택했죠."
+    },
+    "howToUse": null,
+    "ingredients": null
+  },
+  {
+    "id": 5,
+    "name": "VELVET BLUR Mini Lipstick Balm",
+    "korName": "벨벳 블러 미니 립스틱 밤",
+    "category": "lips",
+    "price": 34000,
+    "discountPrice": 34000,
+    "isSoldOut": false,
+    "isNew": false,
+    "isBest": false,
+    "colors": [
+      {"swatch": "#a8374d", "name": "01 Fever"},
+      {"swatch": "#c23659", "name": "02 Roseberry"},
+      {"swatch": "#5e2e35", "name": "03 Storm"},
+      {"swatch": "#ea7e91", "name": "04 Sunrise"},
+      {"swatch": "#791622", "name": "06 Moonblade"},
+      {"swatch": "#793826", "name": "11 Windburn"},
+      {"swatch": "#8a413b", "name": "12 Dusk"}
+    ],
+    "rating": 70,
+    "reviewCount": 6,
+    "imageUrl": "/assets/images/products/lips/VELVET-BLUR-Mini-Matte-Lipstick-Balm-thumb.png",
+    "hoverImage": "/assets/images/products/lips/VELVET-BLUR-Mini-Matte-Lipstick-Balm-hover.png",
+    "imageList": [
+      "/assets/images/products/lips/VELVET-BLUR-Mini-Matte-Lipstick-Balm-1.jpg",
+      "/assets/images/products/lips/VELVET-BLUR-Mini-Matte-Lipstick-Balm-2.png",
+      "/assets/images/products/lips/VELVET-BLUR-Mini-Matte-Lipstick-Balm-3.jpg",
+      "/assets/images/products/lips/VELVET-BLUR-Mini-Matte-Lipstick-Balm-4.jpg",
+      "/assets/images/products/lips/VELVET-BLUR-Mini-Matte-Lipstick-Balm-5.jpg",
+      "/assets/images/products/lips/VELVET-BLUR-Mini-Matte-Lipstick-Balm-6.jpg",
+      "/assets/images/products/lips/VELVET-BLUR-Mini-Matte-Lipstick-Balm-7.jpg",
+      "/assets/images/products/lips/VELVET-BLUR-Mini-Matte-Lipstick-Balm-8.jpg"
+    ],
+    "stock": 20,
+    "releaseDate": "2020-01-05",
+    "description": {
+      "desc": "VELVET BLUR—순식간에 퍼지는 선명한 컬러, 이제 미니 사이즈로 더 가볍게! 영양감 있는 포뮬러가 들뜸 없이 고발색 컬러를 선사하며, 무게감 없이 가볍고 공기처럼 부드럽게 발립니다. 맞춤 설계된 돔 형태의 팁이 입술 위를 부드럽게 미끄러지듯 발리며, 최대 12시간*까지 컬러를 유지해줍니다. 히알루론산 스피어를 함유한 스마트 블러 파우더가 수분을 공급하고, Velvet-Flex™ 기술이 유연한 수분 보호막을 형성해 편안함을 오래 유지합니다. * 20명의 자발적 참여자를 대상으로 한 내부 자가 평가 테스트 기준",
+      "quote": "우리가 만든 VELVET BLUR 매트 밤을 작게 줄였어요. 여러 컬러를 쌓아두고 언제 어디서든 간편하게 사용할 수 있도록요."
+    },
+    "howToUse": ["풀 커버리지 룩을 원할 경우, 돔 형태의 팁을 이용해 입술 전체에 직접 발라주세요.", "PRO TIP: 손끝으로 입술에 가볍게 두드려 바르면, 부드럽고 자연스럽게 번진 듯한 ‘블러 립’ 효과를 연출할 수 있습니다."],
+    "ingredients": {
+      "default": "디메치콘, 카프릴릭/카프릭트리글리세라이드, 폴리에틸렌, 옥틸도데카놀, 수산화알루미늄, 폴리실리콘-11, 폴리하이드록시스테아르산, 합성왁스, 디스테아디모늄헥토라이트, 합성비즈왁스, 인산이칼슘, 수화규소, 카나우바왁스, 트리에톡시카프릴릴실란, 테트라-디-터-부틸 하이드록시하이드로신나메이트, 피마자씨오일, 소듐하이알루로네이트, 경화피마자오일",
+      "additional": "레드 7 (CI 15850), 블루 1 레이크 (CI 42090), 레드 28 레이크 (CI 45410), 산화철 (CI 77491, CI 77492, CI 77499), 이산화티타늄 (CI 77891), 레드 7 레이크 (CI 15850), 옐로우 5 레이크 (CI 19140), 레드 6 (CI 15850)"
+    }
+  },
+  {
+    "id": 6,
+    "name": "LUNAR Lip Gel",
+    "korName": "루나 립 겔",
+    "category": "lips",
+    "price": 42000,
+    "discountPrice": 42000,
+    "isSoldOut": false,
+    "isNew": false,
+    "isBest": false,
+    "colors": [
+      {"swatch": "#fcb689", "name": "01 Mars"},
+      {"swatch": "#fca494", "name": "02 Pyro"},
+      {"swatch": "#f3d9e3", "name": "03 Aries"},
+      {"swatch": "#ff4dff", "name": "04 Orbit"}
+    ],
+    "rating": 80,
+    "reviewCount": 4,
+    "imageUrl": "/assets/images/products/lips/LUNAR-Lip-Gel-thumb.png",
+    "hoverImage": "/assets/images/products/lips/LUNAR-Lip-Gel-hover.png",
+    "imageList": ["/assets/images/products/lips/LUNAR-Lip-Gel-1.jpg", "/assets/images/products/lips/LUNAR-Lip-Gel-2.jpg", "/assets/images/products/lips/LUNAR-Lip-Gel-3.jpg", "/assets/images/products/lips/LUNAR-Lip-Gel-4.jpg", "/assets/images/products/lips/LUNAR-Lip-Gel-5.jpg", "/assets/images/products/lips/LUNAR-Lip-Gel-6.jpg", "/assets/images/products/lips/LUNAR-Lip-Gel-7.jpg", "/assets/images/products/lips/LUNAR-Lip-Gel-8.jpg"],
+    "stock": 20,
+    "releaseDate": "2020-01-06",
+    "description": {
+      "desc": "LUNAR Lip Gel – 쿠션처럼 부드럽고 빛을 반사하는 립 글로스, 달빛처럼 신비로운 광택을 입술 위에. 보름달의 윤기에서 영감을 받은 이 립 젤은, 특별한 폴리머가 입술에 밀착되어 수분을 잠가주고 입술 라인을 매끄럽게 정돈해 더욱 도톰한 입술로 연출해줍니다. 떠다니는 진주 펄을 담은 포뮬러는 황홀한 반짝임을 더해 매혹적인 피니시를 완성합니다.",
+      "quote": "LUNAR Lip Gel은 우리가 매일 바르는 립 글로스예요. 단독으로도 바르고, VELVET BLUR 위에 덧발라 은은한 광택을 더하기도 하죠."
+    },
+    "howToUse": ["도포형 어플리케이터로 입술에 부드럽게 쓸어 발라주세요.", "PRO TIP: 얼굴의 광대뼈 등 하이라이트를 주고 싶은 부위에 톡톡 두드려주면 글로우 효과를 더할 수 있어요. 눈꺼풀에 발라 촉촉한 '웻 룩'으로도 연출해보세요."],
+    "ingredients": {
+      "default": "폴리부텐, 트라이데실트리멜리테이트, 옥틸도데실스테아로일스테아레이트, 아이소세틸스테아레이트, 실리카디메칠실릴레이트, 디이소스테아릴말레이트, 합성플루오르플로고파이트, 칼슘소듐보로실리케이트, 펜타에리스리틸테트라이소스테아레이트, 테트라-디-터-부틸하이드록시하이드로신나메이트, 수산화알루미늄, 산화주석, 실리카",
+      "additional": "CI 42090 (블루 1 레이크), CI 45410 (레드 28 레이크), CI 75470 (카민), CI 77891 (이산화티타늄), CI 77491 / 77499 (산화철), CI 15850 (레드 6), CI 19140 (옐로우 5 레이크)"
+    }
+  },
+  {
+    "id": 7,
+    "name": "EYE PLAY Gem Pack",
+    "korName": "아이 플레이 젬 팩",
+    "category": "eyes",
+    "price": 53000,
+    "discountPrice": 53000,
+    "isSoldOut": false,
+    "isNew": false,
+    "isBest": true,
+    "colors": [],
+    "rating": 5,
+    "reviewCount": 2,
+    "imageUrl": "/assets/images/products/eyes/EYE-PLAY-Gem-Pack-thumb.png",
+    "hoverImage": "/assets/images/products/eyes/EYE-PLAY-Gem-Pack-hover.png",
+    "imageList": ["/assets/images/products/eyes/EYE-PLAY-Gem-Pack-1.jpg", "/assets/images/products/eyes/EYE-PLAY-Gem-Pack-2.jpg", "/assets/images/products/eyes/EYE-PLAY-Gem-Pack-3.jpg", "/assets/images/products/eyes/EYE-PLAY-Gem-Pack-4.jpg"],
+    "stock": 20,
+    "releaseDate": "2020-01-07",
+    "description": {
+      "desc": "EYE PLAY Gem Pack — 스와로브스키® 크리스털로 장식된 반짝이는 아이 스티커 3종 세트. 눈썹, 눈꺼풀, 얼굴 어디든 붙이면 은은하게 빛나는 크리스털 광채를 더해줍니다.",
+      "quote": "Gem Pack은 가장 간편한 아이 액세서리라고 생각해요. 떼어내서 붙이기만 하면 바로 완성되니까요."
+    },
+    "howToUse": ["눈꺼풀, 눈썹, 얼굴 등 원하는 부위에 붙여 크리스탈처럼 반짝이는 포인트를 더해보세요."],
+    "ingredients": {
+      "default": "아크릴레이트코폴리머 (Acrylates Copolymer)",
+      "additional": null
+    }
+  },
+  {
+    "id": 8,
+    "name": "EYE PLAY Glitter Pack",
+    "korName": "아이 플레이 글리터 팩",
+    "category": "eyes",
+    "price": 39000,
+    "discountPrice": 39000,
+    "isSoldOut": false,
+    "isNew": false,
+    "isBest": false,
+    "colors": [],
+    "rating": 5,
+    "reviewCount": 4,
+    "imageUrl": "/assets/images/products/eyes/EYE-PLAY-Glitter-Pack-thumb.png",
+    "hoverImage": "/assets/images/products/eyes/EYE-PLAY-Glitter-Pack-hover.png",
+    "imageList": ["/assets/images/products/eyes/EYE-PLAY-Glitter-Pack-1.jpg", "/assets/images/products/eyes/EYE-PLAY-Glitter-Pack-2.jpg", "/assets/images/products/eyes/EYE-PLAY-Glitter-Pack-3.jpg", "/assets/images/products/eyes/EYE-PLAY-Glitter-Pack-4.jpg"],
+    "stock": 20,
+    "releaseDate": "2020-01-08",
+    "description": {
+      "desc": "",
+      "quote": "글리터 아이 메이크업은 지저분해지기 쉬워서, 단 한 단계로 완성할 수 있도록 Glitter Pack을 만들었어요."
+    },
+    "howToUse": null,
+    "ingredients": null
+  },
+  {
+    "id": 9,
+    "name": "SUPER SLICK Mini Lip Balm",
+    "korName": "수퍼 슬릭 미니 립 밤",
+    "category": "lips",
+    "price": 34000,
+    "discountPrice": 34000,
+    "isSoldOut": false,
+    "isNew": false,
+    "isBest": false,
+    "colors": [
+      {"swatch": "#50250b", "name": "Dune - A sheer burnt brown"},
+      {"swatch": "#d4233d", "name": "Cherry - A sheer true red"},
+      {"swatch": "#dd6b71", "name": "Breeze - A sheer dusty rose"},
+      {"swatch": "#ffffff", "name": "Clear"},
+      {"swatch": "#87001e", "name": "Clay - A sheer deep berry"},
+      {"swatch": "#a1225c", "name": "Blossom - A sheer true magenta"},
+      {"swatch": "#d25c66", "name": "Sweet - A sheer baby pink"}
+    ],
+    "rating": 90,
+    "reviewCount": 11,
+    "imageUrl": "/assets/images/products/lips/SUPER-SLICK-Mini-Lip-Balm-thumb.png",
+    "hoverImage": "/assets/images/products/lips/SUPER-SLICK-Mini-Lip-Balm-hover.png",
+    "imageList": [
+      "/assets/images/products/lips/SUPER-SLICK-Mini-Lip-Balm-1.jpg",
+      "/assets/images/products/lips/SUPER-SLICK-Mini-Lip-Balm-2.png",
+      "/assets/images/products/lips/SUPER-SLICK-Mini-Lip-Balm-3.jpg",
+      "/assets/images/products/lips/SUPER-SLICK-Mini-Lip-Balm-4.jpg",
+      "/assets/images/products/lips/SUPER-SLICK-Mini-Lip-Balm-5.jpg",
+      "/assets/images/products/lips/SUPER-SLICK-Mini-Lip-Balm-6.jpg",
+      "/assets/images/products/lips/SUPER-SLICK-Mini-Lip-Balm-7.jpg",
+      "/assets/images/products/lips/SUPER-SLICK-Mini-Lip-Balm-8.jpg"
+    ],
+    "stock": 20,
+    "releaseDate": "2020-01-09",
+    "description": {
+      "desc": "SUPER SLICK – 장미 오일을 담은 촉촉한 립밤, 입술 위에서 녹아드는 오일-밤 텍스처. 수분을 채워주고 진정 효과를 선사하는 장미 오일이 함유된 이 립밤은 입술에 닿는 순간 부드럽게 녹아들며, 촉촉한 광택과 은은한 컬러를 동시에 선사합니다. 레이어링이 가능한 틴트 컬러로 원하는 만큼 색감을 조절할 수 있으며, 브랜드 시그니처인 지속 가능한 패키지와 도톰한 돔 팁으로 손쉬운 사용이 가능합니다.",
+      "quote": "우리는 매일 쓸 수 있는, 입술에 은은한 색감을 더해주는 진정 립밤이 필요했어요. 평소 립스틱과 립밤을 늘 들고 다니니까, SUPER SLICK을 미니 사이즈로 만들어 MINI VELVET BLUR과 함께 쌓아 들고 다닐 수 있게 했죠."
+    },
+    "howToUse": ["도톰한 돔 팁을 입술 위에 부드럽게 쓸어 발라 생기 있는 컬러를 더해보세요. 더 깊고 반짝이는 발색을 원한다면 여러 번 덧발라 주세요.", "PRO TIP: 바른 후 티슈로 한 번 눌러주면 자연스럽게 물든 듯한 립스테인 효과를 낼 수 있어요."],
+    "ingredients": {
+      "default": "디이소스테아릴말레이트, 옥틸도데실스테아로일스테아레이트, 펜타에리스리틸테트라이소스테아레이트, VP/헥사데센코폴리머, 폴리에틸렌, 오조케라이트, 향료, 로사카니나열매추출물, 시어버터, 리모넨, 구연산, 수산화알루미늄, 마이카, 디에틸헥실시린질리덴말로네이트, 카프릴릭/카프릭트리글리세라이드",
+      "additional": "CI 77891 (이산화티타늄), CI 15850 (레드 6, 레드 7), CI 19140 (옐로우 5 레이크), CI 42090 (블루 1 레이크), CI 45410 (레드 28 레이크), CI 77491 / 77492 / 77499 (산화철)"
+    }
+  },
+  {
+    "id": 10,
+    "name": "SUN WASH Bronzing Powder",
+    "korName": "선 워시 브론징 파우더",
+    "category": "face",
+    "price": 42000,
+    "discountPrice": 34000,
+    "isSoldOut": false,
+    "isNew": false,
+    "isBest": false,
+    "colors": [
+      {"swatch": "#edc19f", "name": "01 Matte Normandie"},
+      {"swatch": "#d29c7f", "name": "02 Matte Gouna"},
+      {"swatch": "#ab7b69", "name": "03 Matte Ibiza"},
+      {"swatch": "#dca28e", "name": "04 Illuminating Nile"},
+      {"swatch": "#f4d1c5", "name": "05 Illuminating Amazon"}
+    ],
+    "rating": 100,
+    "reviewCount": 1,
+    "imageUrl": "/assets/images/products/face/SUN-WASH-Bronzing-Powder-thumb.png",
+    "hoverImage": "/assets/images/products/face/SUN-WASH-Bronzing-Powder-hover.png",
+    "imageList": ["/assets/images/products/face/SUN-WASH-Bronzing-Powder-1.jpg", "/assets/images/products/face/SUN-WASH-Bronzing-Powder-2.jpg", "/assets/images/products/face/SUN-WASH-Bronzing-Powder-3.jpg", "/assets/images/products/face/SUN-WASH-Bronzing-Powder-4.jpg", "/assets/images/products/face/SUN-WASH-Bronzing-Powder-5.jpg", "/assets/images/products/face/SUN-WASH-Bronzing-Powder-6.jpg"],
+    "stock": 20,
+    "releaseDate": "2020-01-10",
+    "description": {
+      "desc": "SUN WASH 브론징 파우더 – 부드럽게 퍼지는 포커스 효과로 완성하는 자연스러운 태닝. 실키한 텍스처의 이 파우더는 얼굴에 따뜻함과 은은한 윤기를 더해주며, 매트와 일루미네이팅(광채) 두 가지 마무리로 제공됩니다. SUN WASH 매트 타입은 코쿰씨드버터를 함유해 벨벳처럼 부드럽고, 오일프리 포뮬러로 자유롭게 레이어링할 수 있습니다. 미세한 펄 입자는 입체적이면서도 번들거림 없는 소프트한 광채를 연출해줍니다.",
+      "quote": "SUN WASH는 우리가 사랑하는 태양빛 피부의 비밀이에요. 계절에 관계없이 자연스럽고 건강한 브론즈 피부를 연출할 수 있도록 매트와 광채 두 가지 타입으로 만들었어요."
+    },
+    "howToUse": ["큰 브러시를 사용해 이마, 콧대, 광대뼈, 턱 등 얼굴의 높게 도드라진 부위에 가볍게 쓸어 발라주세요."],
+    "ingredients": {
+      "default": "탤크, 마이카, 스테아린산아연, 디메치콘, 옥틸도데실스테아로일스테아레이트, 아이소스테아릴네오펜타노에이트, 폴리부텐, 아이소프로필아이소스테아레이트, 카프릴릴글라이콜, 합성플루오르플로고파이트, 페녹시에탄올, 산화주석, 다이아몬드파우더, 헥실렌글라이콜, 토코페롤, 레시틴, 팔미틴산아스코빌, 글리세릴스테아레이트, 글리세릴올리에이트, 구연산",
+      "additional": "CI 77891 (이산화티타늄), CI 77491 / 77492 / 77499 (산화철), CI 15850 (레드 7 레이크)"
+    }
+  },
+  {
+    "id": 11,
+    "name": "SOLAR TINT Blush Duo",
+    "korName": "솔라 틴트 블러시 듀오",
+    "category": "face",
+    "price": 59000,
+    "discountPrice": 59000,
+    "isSoldOut": false,
+    "isNew": false,
+    "isBest": true,
+    "colors": [
+      {"swatch": "#fe856f", "name": "01 Dawn"},
+      {"swatch": "#f36a57", "name": "02 Tropic"},
+      {"swatch": "#e54f58", "name": "03 Ember"},
+      {"swatch": "#db7b78", "name": "04 Canyon"},
+      {"swatch": "#a92e38", "name": "05 Red Moon"}
+    ],
+    "rating": 90,
+    "reviewCount": 4,
+    "imageUrl": "/assets/images/products/face/SOLAR-TINT-Blush-Duo-thumb.png",
+    "hoverImage": "/assets/images/products/face/SOLAR-TINT-Blush-Duo-hover.png",
+    "imageList": ["/assets/images/products/face/SOLAR-TINT-Blush-Duo-1.jpg", "/assets/images/products/face/SOLAR-TINT-Blush-Duo-2.jpg", "/assets/images/products/face/SOLAR-TINT-Blush-Duo-3.jpg", "/assets/images/products/face/SOLAR-TINT-Blush-Duo-4.jpg", "/assets/images/products/face/SOLAR-TINT-Blush-Duo-5.jpg", "/assets/images/products/face/SOLAR-TINT-Blush-Duo-6.jpg", "/assets/images/products/face/SOLAR-TINT-Blush-Duo-7.jpg", "/assets/images/products/face/SOLAR-TINT-Blush-Duo-8.jpg"],
+    "stock": 20,
+    "releaseDate": "2020-01-11",
+    "description": {
+      "desc": "SOLAR TINT — 맞춤형 생기를 담은 포터블 크림 블러셔 콤팩트. 벨벳 크림 컬러와 촉촉한 듀이 밤, 두 가지 포뮬러를 하나에 담은 휴대용 콤팩트 제품입니다. 피부를 진정시키는 동백잎 추출물이 함유되어, 두 제형 모두 피부에 부드럽게 녹아들며 자연스러운 컬러감을 선사합니다. 손끝이나 브러시, 스펀지를 사용해 단독으로 사용하거나 두 제형을 레이어링해 나만의 생기 넘치는 치크를 연출해보세요.",
+      "quote": "SOLAR TINT는 우리가 꿈꾸던 만능 크림 블러셔예요. 컬러감을 살리고 싶다면 크림 피그먼트를, 유리알 광택을 원한다면 듀이 밤을, 혹은 두 가지를 섞어 나만의 피니시를 만들어보세요."
+    },
+    "howToUse": ["벨벳-매트 피니시: 손가락이나 납작한 브러시로 벨벳 크림을 톡톡 두드려 발라주세요.", "촉촉한 글로우 피니시: 듀이 밤을 손끝이나 브러시로 가볍게 두드려주세요.", "PRO TIP: 두 제형을 레이어링하면 더욱 입체적이고 생기 넘치는 치크 메이크업이 완성됩니다."],
+    "ingredients": {
+      "default": "옥틸도데실스테아로일스테아레이트, 마이크로크리스탈린왁스, 마이카, 수소화폴리이소부텐, 파라핀, 비스-디글리세릴폴리아실아디페이트-2, 실리카디메틸실릴레이트, 오조케라이트, 베헤녹시디메치콘, 칸데릴라왁스, 수산화알루미늄, 향료, 디에틸헥실시린질리덴말로네이트, 해바라기씨오일, 카프릴릭/카프릭트리글리세라이드, 동백잎추출물, 토코페롤",
+      "additional": "CI 77491 / 77499 (산화철), CI 77891 (이산화티타늄), CI 19140 (옐로우 5 레이크), CI 45410 (레드 28 레이크), CI 15850 (레드 6, 레드 7), CI 42090 (블루 1 레이크)"
+    }
+  },
+  {
+    "id": 12,
+    "name": "HYDRA MELT Dewy Skin Balm",
+    "korName": "하이드라 멜트 듀이 스킨 밤",
+    "category": "face",
+    "price": 35000,
+    "discountPrice": 35000,
+    "isSoldOut": false,
+    "isNew": false,
+    "isBest": true,
+    "colors": [{"swatch": "#E5E5E5", "name": "01 Clear"}],
+    "rating": 90,
+    "reviewCount": 2,
+    "imageUrl": "/assets/images/products/face/HYDRA-MELT-Dewy-Skin-Balm-thumb.png",
+    "hoverImage": "/assets/images/products/face/HYDRA-MELT-Dewy-Skin-Balm-hover.png",
+    "imageList": ["/assets/images/products/face/HYDRA-MELT-Dewy-Skin-Balm-1.jpg", "/assets/images/products/face/HYDRA-MELT-Dewy-Skin-Balm-2.png", "/assets/images/products/face/HYDRA-MELT-Dewy-Skin-Balm-3.jpg", "/assets/images/products/face/HYDRA-MELT-Dewy-Skin-Balm-4.jpg"],
+    "stock": 20,
+    "releaseDate": "2020-01-12",
+    "description": {
+      "desc": "HYDRA MELT – 촉촉하고 생기 있는 피부를 위한 글로우 밤. 이 투명하고 펄 없는 밤은 칙칙한 피부에 영양과 생기를 더해 건강한 윤기를 부여합니다. 크리미한 텍스처는 피부에 닿는 순간 부드럽게 녹아들며, Hydra-Sphere Complex가 천천히 수분을 공급해 깊은 보습 효과를 선사합니다. 카카오씨버터와 식물성 스쿠알란이 피부를 진정시키고 촉촉하게 유지해 주어, 건조한 부위에 가볍게 두드려주면 즉각적인 수분 부스트를 경험할 수 있습니다. HYDRA MELT는 STACKABLES 시스템의 일부로, SKIN SUEDE, SOFT BLUR와 함께 쌓아 사용하면 언제 어디서나 신선하고 건강한 피부를 연출할 수 있습니다.",
+      "quote": "HYDRA MELT는 우리의 수분 충전 비밀템이에요. 하루 종일 수분감 있고 윤기 나는 피부를 위해 수시로 덧발라요."
+    },
+    "howToUse": ["손가락으로 HYDRA MELT를 덥혀준 뒤, 메이크업 전 단계에서 피부에 가볍게 발라 수분 베이스를 준비하세요.", "광대뼈, 입술산, 눈두덩이 등 윤기를 주고 싶은 부위에 톡톡 두드려 블렌딩하면 촉촉한 생기를 더할 수 있습니다.", "건조함이 느껴질 때 언제든 덧발라 피부를 신선하고 촉촉하게 유지하세요."],
+    "ingredients": {
+      "default": "옥틸도데카놀, 비스-디글리세릴폴리아실아디페이트-2, 카카오씨버터, 스쿠알란, 호호바에스터, 해바라기씨왁스, 아카시아데쿠렌스꽃왁스, 폴리글리세린-3, 피마자씨오일, 소듐하이알루로네이트, 수소화피마자오일, 토코페롤",
+      "additional": null
+    }
+  },
+  {
+    "id": 13,
+    "name": "SOFT BLUR Moisture-Lock Setting Powder",
+    "korName": "소프트 블러 모이스처-락 세팅 파우더",
+    "category": "face",
+    "price": 35000,
+    "discountPrice": 35000,
+    "isSoldOut": true,
+    "isNew": false,
+    "isBest": true,
+    "colors": [{"swatch": "#E5E5E5", "name": "01 Invisible"}],
+    "rating": 100,
+    "reviewCount": 12,
+    "imageUrl": "/assets/images/products/face/SOFT-BLUR-Moisture-Lock-Setting-Powder-thumb.png",
+    "hoverImage": "/assets/images/products/face/SOFT-BLUR-Moisture-Lock-Setting-Powder-hover.png",
+    "imageList": ["/assets/images/products/face/SOFT-BLUR-Moisture-Lock-Setting-Powder-1.jpg", "/assets/images/products/face/SOFT-BLUR-Moisture-Lock-Setting-Powder-2.png"],
+    "stock": 0,
+    "releaseDate": "2020-01-13",
+    "description": {
+      "desc": "SOFT BLUR – 메이크업 픽서를 넘어, 스킨케어까지 겸한 세팅 파우더. 이 탈크 프리 포뮬러는 고순도 히알루론산을 포함한 피부 컨디셔닝 성분으로 구성되어, 수분을 잠궈주면서 번들거림은 잡아줍니다. 일반적인 세팅 파우더와 달리, 숨 쉬는 듯한 크리미 텍스처로 뭉침 없이 부드럽고 자연스러운 소프트 매트 피니시를 연출해줍니다. 피부는 매끄럽게 블러 처리된 듯 보이며, 전혀 건조하거나 텁텁하지 않습니다. SOFT BLUR는 STACKABLES 시스템의 일부로, SKIN SUEDE 및 HYDRA MELT와 함께 사용하면 언제 어디서나 생기 있고 건강한 피부를 완성할 수 있습니다.",
+      "quote": "SOFT BLUR은 메이크업의 마지막 단계로, 수분을 잠가주고 블러 효과를 주는 파우더를 만들고 싶었어요."
+    },
+    "howToUse": ["퍼프를 사용해 유분이 도는 부위에 꾹 눌러서 발라주세요.", "또는 플러피 브러시로 얼굴 전체에 가볍게 쓸어 마무리해도 좋습니다."],
+    "ingredients": null
+  },
+  {
+    "id": 14,
+    "name": "SKIN SUEDE Melting Bronze Balm",
+    "korName": "스킨 스웨이드 멜팅 브론즈 밤",
+    "category": "face",
+    "price": 35000,
+    "discountPrice": 35000,
+    "isSoldOut": false,
+    "isNew": false,
+    "isBest": true,
+    "colors": [
+      {"swatch": "#bc7c54", "name": "01 Sycamore"},
+      {"swatch": "#b27253", "name": "02 Cedar"},
+      {"swatch": "#b26c4d", "name": "03 Oak"},
+      {"swatch": "#b25b43", "name": "04 Terracotta"},
+      {"swatch": "#ac5c42", "name": "05 Maple"},
+      {"swatch": "#9c4b33", "name": "06 Mahogany"}
+    ],
+    "rating": 60,
+    "reviewCount": 100,
+    "imageUrl": "/assets/images/products/face/SKIN-SUEDE-Melting-Bronze-Balm-thumb.png",
+    "hoverImage": "/assets/images/products/face/SKIN-SUEDE-Melting-Bronze-Balm-hover.png",
+    "imageList": ["/assets/images/products/face/SKIN-SUEDE-Melting-Bronze-Balm-1.jpg", "/assets/images/products/face/SKIN-SUEDE-Melting-Bronze-Balm-2.png", "/assets/images/products/face/SKIN-SUEDE-Melting-Bronze-Balm-3.jpg", "/assets/images/products/face/SKIN-SUEDE-Melting-Bronze-Balm-4.jpg", "/assets/images/products/face/SKIN-SUEDE-Melting-Bronze-Balm-5.jpg", "/assets/images/products/face/SKIN-SUEDE-Melting-Bronze-Balm-6.jpg"],
+    "stock": 20,
+    "releaseDate": "2020-01-14",
+    "description": {
+      "desc": "SKIN SUEDE – 단숨에 여름 피부를 완성하는 크림-투-파우더 밤. 이 멀티 유즈 밤은 피부에 자연스러운 따스함과 보습을 동시에 부여합니다. 부드럽게 보송해지는 매트 파우더 성분이 함유되어 실크처럼 매끈한 마무리를 선사하며, 가볍고 공기처럼 부드러운 포뮬러가 피부에 녹아들 듯 밀착됩니다. 브론징, 컨투어링, 아이·립까지 확장 가능한 모노크롬 메이크업까지 모두 커버 가능한 만능 제품입니다. 피부처럼 유연하게 밀착되는 텍스처에, 저분자 히알루론산을 포함한 Hydra-Sphere Complex가 천천히 수분을 공급해 속부터 채우는 보습 효과까지 더해줍니다.",
+      "quote": "이건 우리가 생각한 컨투어의 대안이에요. 얼굴과 눈가에 모두 사용할 수 있는, 영양감 가득한 따뜻한 컬러 밤이죠."
+    },
+    "howToUse": ["손가락이나 브러시를 사용해 얼굴 전체에 가볍게 펴 발라 자연스러운 온기를 더하세요.", "턱선, 광대, 이마 라인을 따라 쓸어주면 브론저 또는 컨투어로 사용할 수 있습니다.", "눈두덩이에 바르면 통일감 있는 모노크롬 룩을 연출할 수 있어요."],
+    "ingredients": {
+      "default": "카프릴릭/카프릭트리글리세라이드, C8-12 지방산트리글리세라이드, 옥틸도데카놀, 해바라기씨왁스, 실리카, 합성왁스, 디스테아디모늄헥토라이트, 옥수수전분, 피마자씨오일, 소듐하이알루로네이트, 수소화피마자오일",
+      "additional": "CI 77891 (이산화티타늄), CI 77492 / 77491 / 77499 (산화철)"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Dewy moisture",
+    "korName": "듀이 모이스처",
+    "category": "face",
+    "price": 118000,
+    "discountPrice": 100000,
+    "isSoldOut": false,
+    "isNew": true,
+    "isBest": false,
+    "colors": [],
+    "rating": 60,
+    "reviewCount": 5,
+    "imageUrl": "/assets/images/products/face/Dewy-moisture-thumb.png",
+    "hoverImage": "/assets/images/products/face/Dewy-moisture-hover.png",
+    "imageList": ["/assets/images/products/face/Dewy-moisture-1.jpg", "/assets/images/products/face/Dewy-moisture-2.jpg", "/assets/images/products/face/Dewy-moisture-3.png", "/assets/images/products/face/Dewy-moisture-4.jpg"],
+    "stock": 20,
+    "releaseDate": "2020-01-15",
+    "description": {
+      "desc": "칙칙하고 피곤한 피부를 즉각적으로 깨워주는, 최고의 생기 광채 3종 세트. 녹아들 듯 부드럽게 스며드는 포뮬러가 피부에 자연스럽게 밀착되어, 끈적임이나 글리터 없이 은은하게 안에서부터 빛나는 듯한 글로우를 연출합니다.",
+      "quote": ""
+    },
+    "howToUse": null,
+    "ingredients": null
+  },
+  {
+    "id": 16,
+    "name": "SUPER SLICK Lip Balm",
+    "korName": "수퍼 슬릭 립 밤",
+    "category": "lips",
+    "price": 50000,
+    "discountPrice": 50000,
+    "isSoldOut": false,
+    "isNew": true,
+    "isBest": true,
+    "colors": [
+      {"swatch": "#dd6b71", "name": "Breeze - A sheer dusty rose"},
+      {"swatch": "#d4233d", "name": "Cherry - A sheer true red"},
+      {"swatch": "#50250b", "name": "Dune - A sheer burnt brown"}
+    ],
+    "rating": 100,
+    "reviewCount": 2,
+    "imageUrl": "/assets/images/products/lips/SUPER-SLICK-Lip-Balm-thumb.png",
+    "hoverImage": "/assets/images/products/lips/SUPER-SLICK-Lip-Balm-hover.png",
+    "imageList": ["/assets/images/products/lips/SUPER-SLICK-Lip-Balm-1.jpg", "/assets/images/products/lips/SUPER-SLICK-Lip-Balm-2.png", "/assets/images/products/lips/SUPER-SLICK-Lip-Balm-3.jpg", "/assets/images/products/lips/SUPER-SLICK-Lip-Balm-4.jpg", "/assets/images/products/lips/SUPER-SLICK-Lip-Balm-5.jpg", "/assets/images/products/lips/SUPER-SLICK-Lip-Balm-6.jpg", "/assets/images/products/lips/SUPER-SLICK-Lip-Balm-7.jpg", "/assets/images/products/lips/SUPER-SLICK-Lip-Balm-8.jpg"],
+    "stock": 20,
+    "releaseDate": "2020-01-16",
+    "description": {
+      "desc": "SUPER SLICK – 장미 오일을 담아 진정 효과를 더한 수분 충전 립밤. 입술에 닿는 순간 녹아드는 독특한 오일-밤 텍스처가, 촉촉한 윤기와 은은한 컬러를 더해줍니다. 시그니처 돔 팁 패키지로 쉽고 간편하게 바를 수 있으며, 한 번의 터치로는 맑고 생기 있는 틴트, 여러 번 덧바르면 더 진한 컬러감과 광택을 연출할 수 있습니다.",
+      "quote": "립밤과 립글로스를 매일 따로 챙기는 게 귀찮았어요. 그래서 둘을 하나로 만들었죠—촉촉함, 광택, 틴트까지 한 번에."
+    },
+    "howToUse": ["입술에 닿는 순간 부드럽게 녹아드는 텍스처가 촉촉한 광택과 은은한 컬러를 선사합니다.", "입술에 SUPER SLICK을 부드럽게 쓸어 발라 자연스러운 틴트를 연출하세요.", "컬러와 광택감을 더하고 싶다면 여러 번 덧발라 주세요.", "립스테인 효과를 원한다면 바른 후 티슈로 가볍게 눌러 마무리해 주세요."],
+    "ingredients": {
+      "default": "디이소스테아릴말레이트, 옥틸도데실스테아로일스테아레이트, 펜타에리스리틸테트라이소스테아레이트, VP/헥사데센코폴리머, 폴리에틸렌, 오조케라이트, 향료, 로사카니나열매추출물, 시어버터, 리모넨, 구연산, 수산화알루미늄, 마이카, 디에틸헥실시린질리덴말로네이트, 카프릴릭/카프릭트리글리세라이드",
+      "additional": "CI 77891 (이산화티타늄), CI 15850 (레드 6, 레드 7), CI 19140 (옐로우 5 레이크), CI 42090 (블루 1 레이크), CI 45410 (레드 28 레이크), CI 77491 / 77492 / 77499 (산화철)"
+    }
+  },
+  {
+    "id": 17,
+    "name": "COLOR GLAZE Lip and Cheek Pigment",
+    "korName": "컬러 글레이즈 립 앤 치크 피그먼트",
+    "category": "face",
+    "price": 35000,
+    "discountPrice": 35000,
+    "isSoldOut": false,
+    "isNew": true,
+    "isBest": true,
+    "colors": [
+      {"swatch": "#981f07", "name": "iris-a-sheer-plum-brow"},
+      {"swatch": "#db4188", "name": "hibiscus-a-sheer-raspberry"},
+      {"swatch": "#c84717", "name": "marigold-a-sheer-light-auburn"},
+      {"swatch": "#9c42bc", "name": "wild-orchid-an-iridescent-purple"},
+      {"swatch": "#fcd4ec", "name": "magnolia-an-iridescent-light-pink"},
+      {"swatch": "#ef848c", "name": "lily-an-iridescent-rose"}
+    ],
+    "rating": 100,
+    "reviewCount": 53,
+    "imageUrl": "/assets/images/products/face/COLOR-GLAZE-Lip-and-Cheek-Pigment-thumb.png",
+    "hoverImage": "/assets/images/products/face/COLOR-GLAZE-Lip-and-Cheek-Pigment-hover.png",
+    "imageList": [
+      "/assets/images/products/face/COLOR-GLAZE-Lip-and-Cheek-Pigment-1.jpg",
+      "/assets/images/products/face/COLOR-GLAZE-Lip-and-Cheek-Pigment-2.jpg",
+      "/assets/images/products/face/COLOR-GLAZE-Lip-and-Cheek-Pigment-3.jpg",
+      "/assets/images/products/face/COLOR-GLAZE-Lip-and-Cheek-Pigment-4.jpg",
+      "/assets/images/products/face/COLOR-GLAZE-Lip-and-Cheek-Pigment-5.jpg",
+      "/assets/images/products/face/COLOR-GLAZE-Lip-and-Cheek-Pigment-6.jpg",
+      "/assets/images/products/face/COLOR-GLAZE-Lip-and-Cheek-Pigment-7.jpg",
+      "/assets/images/products/face/COLOR-GLAZE-Lip-and-Cheek-Pigment-8.jpg"
+    ],
+    "stock": 20,
+    "releaseDate": "2020-01-17",
+    "description": {
+      "desc": "COLOR GLAZE – 맑고 촉촉한 컬러를 가볍게 한 겹. 부드럽고 무게감 없는 텍스처의 이 멀티 유즈 피그먼트는, 입술과 볼에 자연스럽게 녹아들어 은은한 광택과 생기를 더해줍니다. 레이어링 가능한 Mirror Polishing Complex가 가벼운 터치부터 생생한 컬러까지 자유롭게 조절 가능하게 도와주며, 유리알처럼 반짝이는 글로시 또는 펄 피니시를 선택할 수 있습니다. * Magnolia, Wild Orchid, Lily 컬러에는 고광택 3D 펄이 함유되어 있어 피부에 무지갯빛처럼 빛나는 아이리디센트 효과를 선사합니다. 피니시가 다른 컬러를 여러 겹 레이어링하면 더욱 풍부하고 입체적인 반사광을 연출할 수 있어요. 논코메도제닉",
+      "quote": "COLOR GLAZE는 우리가 메이크업할 때 빠뜨리지 않는 필수 아이템이에요. 립에도 치크에도 한 번에 생기를 넣을 수 있고, 무엇보다 ‘피부가 좋아 보여’ 보이는 그 느낌, 그게 바로 이 제품이 주는 매력이에요."
+    },
+    "howToUse": ["손가락이나 립 브러시를 사용해 자연스럽게 톡톡 바릅니다.", "더 강한 컬러와 반짝임을 원할 경우 여러 번 덧발라 주세요.", "손가락, 스펀지, 또는 플러피 브러시로 볼 중앙(애플존)에 바른 후 블렌딩합니다.", "은은한 생기부터 선명한 컬러까지 자유롭게 연출 가능합니다."],
+    "ingredients": {
+      "default": "펜타에리스리틸테트라이소스테아레이트, 옥틸도데카놀, 디이소스테아릴말레이트, 폴리부텐, 와카팜프(WAKAPAMP), VP/헥사데센코폴리머, 합성왁스, 비스-디글리세릴폴리아실아디페이트-2, 실리카, 디스테아디모늄헥토라이트, 산화주석, 테트라-디-터-부틸하이드록시하이드로신나메이트, 카프릴릭/카프릭트리글리세라이드, 감태추출물(Undaria Pinnatifida Extract)",
+      "additional": "CI 77891 (이산화티타늄), CI 19140 (옐로우 5 레이크), CI 15850 (레드 7), CI 42090 (블루 1 레이크), CI 45410 (레드 28 레이크), CI 77491 / 77499 (산화철)"
+    }
+  },
+  {
+    "id": 18,
+    "name": "SOFT STROBE Creamy Highlight Powder",
+    "korName": "소프트 스트로브 크리미 하이라이트 파우더",
+    "category": "face",
+    "price": 35000,
+    "discountPrice": 35000,
+    "isSoldOut": false,
+    "isNew": true,
+    "isBest": true,
+    "colors": [
+      {"swatch": "#efcfc7", "name": "Diamond - An icy beige"},
+      {"swatch": "#dfac93", "name": "Citrine - A golden champagne"},
+      {"swatch": "#f8d1d3", "name": "Rose Quartz- A chilled pink"},
+      {"swatch": "#c68886", "name": "Ruby - A burnt red"},
+      {"swatch": "#c48a78", "name": "Topaz - A warm copper"}
+    ],
+    "rating": 100,
+    "reviewCount": 1,
+    "imageUrl": "/assets/images/products/face/SOFT-STROBE-Creamy-Highlight-Powder-thumb.png",
+    "hoverImage": "/assets/images/products/face/SOFT-STROBE-Creamy-Highlight-Powder-hover.png",
+    "imageList": ["/assets/images/products/face/SOFT-STROBE-Creamy-Highlight-Powder-1.jpg", "/assets/images/products/face/SOFT-STROBE-Creamy-Highlight-Powder-2.jpg", "/assets/images/products/face/SOFT-STROBE-Creamy-Highlight-Powder-3.jpg", "/assets/images/products/face/SOFT-STROBE-Creamy-Highlight-Powder-4.jpg", "/assets/images/products/face/SOFT-STROBE-Creamy-Highlight-Powder-5.jpg", "/assets/images/products/face/SOFT-STROBE-Creamy-Highlight-Powder-6.jpg"],
+    "stock": 20,
+    "releaseDate": "2020-01-18",
+    "description": {
+      "desc": "SOFT STROBE — 즉각적으로 피부에 생기와 입체감을 더해주는 에어-라이트 하이라이터. 비건 마린 보습 성분이 함유된 Wet-Powder System 포뮬러로, 피부에 녹아들 듯 밀착되어 무게감 없이 자연스럽고 입체적인 윤광을 연출합니다. 탈크 프리의 혁신적인 제형으로, 메이크업 전·후 어디든 레이어링이 가능하며, 맑고 은은한 빛을 피부에 더해줍니다. 단독으로 사용하면 은은한 생기를, 메이크업 위에 덧바르면 더욱 화사하고 입체적인 룩을 완성할 수 있어요. 하이라이터, 아이섀도우, 글로우 피니셔 등 다용도로 활용 가능하며, 지속 가능 소재로 제작된 바이오 기반 콤팩트에 담겨 있습니다.",
+      "quote": "우리는 피부가 반짝이기보다 빛나길 원했어요. SOFT STROBE는 가볍고 투명하게, 마치 피부 안에서부터 자연스럽게 빛이 올라오는 느낌을 줘요."
+    },
+    "howToUse": ["큰 플러피 브러시로 얼굴의 높은 부위(광대뼈, 콧등, 눈 앞머리 등)에 가볍게 쓸어 발라 광채를 더해주세요.", "손가락이나 작은 브러시를 사용해 눈두덩이에 톡톡 발라주세요. 레이어링할수록 광택감과 색감이 더해집니다.", "이 포뮬러는 고급스럽고 정교한 질감을 위해 제작되어 전통적인 프레스드 파우더보다 섬세합니다. 내용물이 흐트러졌을 경우, 손끝으로 부드럽게 눌러 다시 모양을 정돈할 수 있습니다."],
+    "ingredients": {
+      "default": "시어버터, 옥틸도데실스테아로일스테아레이트, 카프릴릭/카프릭트리글리세라이드, 스테아르산아연, 디메치콘, 디이소스테아릴말레이트, 보론나이트라이드, 나일론-12, HDI/트라이메칠올헥실락톤크로스폴리머, 메틸프로판디올, 실리카, 산화주석, 카프릴릴글라이콜, 페닐프로파놀, 퉁퉁마디추출물(Salicornia Herbacea Extract), 감태추출물(Undaria Pinnatifida Extract), 마이카",
+      "additional": "CI 77891 (이산화티타늄), CI 77491 / CI 77499 (산화철), CI 15850 (레드 7 레이크), CI 77007 (울트라마린)"
+    }
+  }
+]

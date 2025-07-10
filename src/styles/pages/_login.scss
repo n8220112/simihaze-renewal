@@ -1,0 +1,59 @@
+.login-page {
+  padding-top: 80px;
+  section {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 50px;
+    min-height: 80vh;
+    .inner {
+      width: 420px;
+      margin: 0 auto;
+      h5 {
+        margin-bottom: 20px;
+      }
+      .login-form {
+        legend {
+          visibility: hidden;
+        }
+        div {
+          display: flex;
+          flex-direction: column;
+          gap: 10px;
+        }
+        input,
+        button {
+          width: 100%;
+          padding: 0 20px;
+          display: block;
+          height: 50px;
+          line-height: 48px;
+          border: 1px solid $black;
+        }
+        .inputs {
+          margin-bottom: 40px;
+        }
+        .buttons {
+          margin-bottom: 20px;
+          button:first-child {
+            background-color: $black;
+            color: $white;
+          }
+        }
+      }
+      .actions {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+        color:$gray;
+        i {
+          display: block;
+          width: 1px;
+          height: 16px;
+          background-color: $light-gray;
+          opacity: 0.5;
+        }
+      }
+    }
+  }
+}

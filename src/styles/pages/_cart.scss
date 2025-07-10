@@ -1,0 +1,114 @@
+.cart-page {
+  padding: 80px 0;
+  .cart-none {
+    text-align: center;
+    padding: 80px 0;
+    a {
+      display: block;
+      margin-top: 50px;
+      text-decoration: underline;
+    }
+  }
+  .cart-wrap {
+    max-width: 1200px;
+    padding: 0 50px;
+    margin: 0 auto;
+    min-height: 80vh;
+    .title-wrap {
+      display: flex;
+      font-size: $font-xl;
+      height: 40px;
+      align-items: start;
+      justify-content: space-between;
+      font-weight: $bold;
+      ul {
+        display: flex;
+        gap: 20px;
+        li:last-child {
+          color: $light-gray;
+        }
+      }
+    }
+    .cart-item-wrap {
+      .cart-item-header {
+        padding: 10px 0;
+      }
+      .cart-item-body {
+        border-top: 2px solid $black;
+        border-bottom: 2px solid $black;
+        .cart-item-actions {
+          display: flex;
+          gap: 10px;
+          padding: 20px 0;
+          button {
+            padding: 0 20px;
+            height: 32px;
+            border: 1px solid $black;
+            font-size: $font-s;
+          }
+        }
+      }
+      .total-summary {
+        display: flex;
+        border-bottom: 1px solid $black;
+        .total-summary-inner {
+          flex: 1;
+          &:last-child {
+            div {
+              border-right: none;
+            }
+          }
+          h5 {
+            padding: 20px 0;
+            border-bottom: 1px solid #eee;
+            font-weight: $bold;
+            text-align: center;
+          }
+          .total-summary-desc {
+            padding: 30px 20px 50px;
+            font-size: $font-heading-s;
+            font-weight: $bold;
+            border-right: 1px solid #eee;
+          }
+        }
+      }
+      .button-wrap {
+        margin: 20px 0;
+        display: flex;
+        gap: 10px;
+        button {
+          flex: 1;
+          padding: 14px 0;
+          font-size: $font-m;
+        }
+        button:first-child {
+          background-color: $white;
+          border: 1px solid $black;
+          color: $black;
+        }
+        button:last-child {
+          background-color: $black;
+          color: $white;
+        }
+      }
+      .cart-desc {
+        display: flex;
+        gap: 5px;
+        align-items: center;
+        margin: 2px 0;
+        i {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          width: 17px;
+          height: 17px;
+          border: 1px solid $cloudy-gray;
+          font-size: 20px;
+        }
+        p {
+          color: $dim-gray;
+        }
+      }
+    }
+  }
+}

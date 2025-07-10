@@ -1,0 +1,23 @@
+.marquee {
+  position: fixed;
+  z-index: 10;
+  top: 0;
+  overflow: hidden;
+  background-color: $main-color;
+  color: $white;
+  padding: 8px 0;
+  .wrap {
+    white-space: nowrap;
+    display: flex;
+    gap: 250px;
+    animation: marquee 30s linear infinite;
+  }
+  @keyframes marquee {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(-50%);
+    }
+  }
+}

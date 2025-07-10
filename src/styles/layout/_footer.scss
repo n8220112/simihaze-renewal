@@ -1,0 +1,35 @@
+footer {
+  width: 100%;
+  padding: 50px 20px 20px;
+  div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    div:last-child {
+      text-align: right;
+    }
+  }
+  .footer-top {
+    div {
+      display: flex;
+      gap: 15px;
+    }
+    .sns {
+      font-size: 20px;
+    }
+  }
+  .footer-bottom {
+    padding-top: 30px;
+    .address {
+      font-size: $font-xs;
+      line-height: 180%;
+    }
+    .copyright {
+      p {
+        span {
+          color: $gray;
+        }
+      }
+    }
+  }
+}

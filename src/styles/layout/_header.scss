@@ -1,0 +1,44 @@
+header {
+  position: fixed;
+  top: 32px;
+  z-index: 10;
+  width: 100%;
+  height: 60px;
+  padding: 0 20px;
+  transition: 0.2s;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: $white;
+  color: $black;
+  nav {
+    font-weight: $bold;
+    font-size: $font-m;
+    text-transform: uppercase;
+    ul {
+      display: flex;
+      gap: 20px;
+    }
+  }
+  .logo {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    transition: inherit;
+    align-self: center;
+    filter: none;
+    a {
+      display: block;
+      font-size: 0;
+    }
+  }
+  &.on {
+    background-color: transparent;
+    color: $white;
+
+    .logo {
+      filter: invert(1);
+    }
+  }
+}
