@@ -124,7 +124,7 @@ const ProductDetail = ({products, cartItems, setCartItems}) => {
         <div className="detail-board">
           <h6>Q&A</h6>
           <div className="content">게시물이 없습니다</div>
-          <button>리뷰작성</button>
+          <button>문의작성</button>
         </div>
       </section>
       <section className="detail-info">
